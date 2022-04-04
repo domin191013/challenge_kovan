@@ -44,6 +44,8 @@ $ npm run test
 
 There are 2 test cases for game and player controller.
 
-- The player controller have 2 test cases to check if it works accurately when the user exist <br/> or not in the game.
+- The player controller have 2 test cases to check if it works accurately 
+  when the user exist or not in the game.
 
-- The game controller have 1 test case to check if the calculation of getting the <br/> current segment is right.
+- The game controller have 1 test case to check if the calculation of 
+  getting the current segment is right.
